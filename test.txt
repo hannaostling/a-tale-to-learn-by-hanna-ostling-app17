@@ -1,1 +1,10 @@
-hej
+skapa följande tomma filer lokalt
+1_tale_begins.txt
+2_villain.txt
+3_hero_enters_tale.txt
+4_epic_quest.txt
+5_journey_through_land.txt
+6_great_obstacle.txt
+7_hero_wins.txt
+8_moral_of_the_tale.txt
+9_end.txt
